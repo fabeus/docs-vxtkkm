@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-qdtim8.koi888win.sbs/sitemap.xml
